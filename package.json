@@ -1,0 +1,8 @@
+{
+  "name": "html-stringify",
+  "version": "1.0.0",
+  "description": "Convert HTML code to string to use in json file.",
+  "main": "index.js",
+  "author": "yurayarosh <yura12323@gmail.com>",
+  "license": "MIT"
+}
